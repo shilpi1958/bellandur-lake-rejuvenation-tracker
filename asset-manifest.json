@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bellandur-lake-rejuvenation-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/bellandur-lake-rejuvenation-tracker/static/js/main.3217fc86.js",
+    "static/js/453.2d9d3e87.chunk.js": "/bellandur-lake-rejuvenation-tracker/static/js/453.2d9d3e87.chunk.js",
+    "index.html": "/bellandur-lake-rejuvenation-tracker/index.html",
+    "main.e6c13ad2.css.map": "/bellandur-lake-rejuvenation-tracker/static/css/main.e6c13ad2.css.map",
+    "main.3217fc86.js.map": "/bellandur-lake-rejuvenation-tracker/static/js/main.3217fc86.js.map",
+    "453.2d9d3e87.chunk.js.map": "/bellandur-lake-rejuvenation-tracker/static/js/453.2d9d3e87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3217fc86.js"
+  ]
+}
